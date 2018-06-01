@@ -4,7 +4,7 @@
 import turtle
 
 turtle.shape('turtle')
-turtle.title('Lab 02 -- 2017')
+turtle.title('Lab 02 -- 2016')
 
 # get the number of sides from user
 n = int(turtle.textinput("Lab 02","The number of sides: "))
